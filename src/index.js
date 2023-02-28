@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 const sidd={siddharth};
+/* this is my comment for recognize purpose whethe it's working or not  */
 root.render(
   <React.StrictMode>
     <App />
